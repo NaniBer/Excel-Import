@@ -1,19 +1,22 @@
 # Excel-Import
 UI Screenshot
 First Page
-![image](https://github.com/NaniBer/Excel-Import/assets/92272303/1401758f-4858-41c4-8312-39a83fdef116)
+![image](https://github.com/NaniBer/Excel-Import/assets/92272303/ab6314dd-24ad-4715-869d-b28d8ceadcfc)
+
 
 
 Edit Page
-![image](https://github.com/NaniBer/Excel-Import/assets/92272303/f6940419-0810-4f26-b8aa-841c6f894fe6)
+![image](https://github.com/NaniBer/Excel-Import/assets/92272303/4e57d728-824b-498c-96bd-2554017522ac)
+
 
 
 Delete Page
-![image](https://github.com/NaniBer/Excel-Import/assets/92272303/e136595d-b820-4332-9fb1-c594f52d1a6f)
+![image](https://github.com/NaniBer/Excel-Import/assets/92272303/ad6880de-d81b-49ee-8015-45fc98489032)
 
 
 Add Page
-![image](https://github.com/NaniBer/Excel-Import/assets/92272303/7281c35c-de77-42a8-af23-d0b48be7775a)
+![image](https://github.com/NaniBer/Excel-Import/assets/92272303/8a5b1ca3-e63a-4d00-b570-eadb3352a341)
+
 
 
 
